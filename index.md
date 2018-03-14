@@ -155,6 +155,21 @@ email: ["clara.llebot@oregonstate.edu", "sseymore@uoregon.edu", "jocain@uoregon.
   attempt to provide them.
 </p>
 
+
+{% comment %}
+  PARKING
+
+  Modify the block below if there are changes in how the parking works.
+{% endcomment %}
+<p id="accessibility">
+  <strong>Parking:</strong> Information about parking options at OSU:
+</p>
+<ul>
+  <li><a href="http://transportation.oregonstate.edu/parking/parking-permits">Visitor Parking Information</a></li>
+  <li><a href="https://my.parking.oregonstate.edu/sales/img/zones/FY17/BC.png">Map of the parking spaces in campus</a></li>
+</ul>
+
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
