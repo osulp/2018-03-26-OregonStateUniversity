@@ -46,10 +46,8 @@ email: ["clara.llebot@oregonstate.edu", "sseymore@uoregon.edu", "jocain@uoregon.
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<h4>This workshop is part of a series of two twin workshops organized in collaboration between University of Oregon and Oregon State University. Information about the University of Oregon workshop can be found  
+<a href="https://researchguides.uoregon.edu/library-carpentry">here</a>.</h4>
 
 <h2 id="general">General Information</h2>
 
