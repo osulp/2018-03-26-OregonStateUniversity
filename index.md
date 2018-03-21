@@ -99,6 +99,8 @@ email: ["clara.llebot@oregonstate.edu", "sseymore@uoregon.edu", "jocain@uoregon.
 {% endif %}
 
 {% comment %}
+![Map of the Autzen classroom at the Valley Library](../data/floor2n_large_autzen.jpg)
+
   DATE
 
   This block displays the date and links to Google Calendar.
